@@ -2,7 +2,7 @@ import "../styles/globals.css";
 interface Texbot {
   buttonName: string;
 }
-export default function Factioned({ buttonName }: Texbot) {
+export default function Factioneddddddd({ buttonName }: Texbot) {
   return (
     <div>
       <button
